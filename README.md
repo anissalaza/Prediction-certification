@@ -15,7 +15,7 @@ Ce projet sera réalisé grâce à 2 langages informatiques : _Python et SQL_.
 * Outils utilisés :
   * Jupyter et JupyterLab
   * Librairies Python
-  * PyCharm Profesionnal & DB Browser for SQLite
+  * DB Browser for SQLite
   * Tableau
   * PowerPoint
 
