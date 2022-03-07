@@ -26,7 +26,7 @@ Les étapes ont été les suivantes :
 
 ∙ Visualisation : visualisation graphique grâce l'outil de visualisation Tableau + librairies Python (_Matplotlib, Seaborn et Plotly_) 
 
-∙ [Modélisation](https://github.com/anissalaza/Prediction-certification/blob/cb9772cd8309f12f8a22929b02f6a701cf39564b/Modelisation.ipynb) : création du modèle de prédiction des certifications (_Régression logistique, Random Forest, Linear SVC, Catboost, kNN, Decision Tree, Naive Bayes, LightGBM, XGBoost, k-means, ACP, tSNE_)
+∙ [Modélisation](https://github.com/anissalaza/Prediction-certification/blob/e655743ceb6b74b9a2946a69a914ff3f90daa206/Modelisation.ipynb) : création du modèle de prédiction des certifications (_Régression logistique, Random Forest, Linear SVC, Catboost, kNN, Decision Tree, Naive Bayes, LightGBM, XGBoost, k-means, ACP, tSNE_)
 
 ∙ Rédaction d'un [rapport](https://github.com/anissalaza/Prediction-certification/blob/cb9772cd8309f12f8a22929b02f6a701cf39564b/Rapport.pdf) et d'une [présentation](https://github.com/anissalaza/Prediction-certification/blob/main/Soutenance.pdf) évalués lors d'une soutenance devant un jury
 
